@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// ניב קלבו ואורי ישראלוב
 public class Main {
     public static final int EXPAND_ARRAY = 2;
     public static String[] expandArray(String[] array) {
